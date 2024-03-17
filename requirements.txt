@@ -1,0 +1,8 @@
+Pillow
+Flask
+prometheus-flask-exporter
+requests
+grpcio-tools
+grpcio
+furl
+pytest
